@@ -28,6 +28,13 @@
 ### 📊 GitHub Stats  
 ![Aminul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
 
+
+![Aminul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aminul157246&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aminul157246&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aminul157246&theme=radical)
+
 ---
 
 🔥 **Let's connect and build amazing projects together!**  
