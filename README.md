@@ -45,6 +45,4 @@ If you have expertise in these areas, I’d love to learn from you!
 💬 Ask me about... Getting started with: HTML ,CSS, React.js,  Forntend Roadmap. I can assist with basic concepts, component creation, and state management and so on.
 
 ## 📫 How to reach me:
-- Gmail: [aminul.islam.157246@gmail.com](mailto:aminul.islam.157246@gmail.com), Phone: 01761743556
---
-🔥 **Let's connect and build amazing projects together!**  
+- Gmail: [aminul.islam.157246@gmail.com](mailto:aminul.islam.157246@gmail.com), Phone: +8801761743556
