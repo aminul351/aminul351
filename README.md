@@ -1,6 +1,15 @@
 # Hi there!👋 I'm **Aminul Islam**
 a passionate web developer building my career in the world of web development.
 
+
+## About Me
+Greetings! I'm **Aminul Islam**, a passionate frontend developer dedicated to creating immersive digital experiences. With a foundation in **HTML**, **CSS**, **JavaScript**, **React**, **Node**, and **MongoDB**, I've evolved into a **Next.js** enthusiast, wielding its power to craft sleek and interactive user interfaces.
+
+## Proficiencies
+
+Proficient in **HTML**, **CSS**, **JavaScript**, **React**, **Tailwind**, **MongoDB**, and **Node.js (basic)**. Building modern web applications with a focus on user-centric design and efficient backend integration.
+
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aminul351&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aminul351&layout=compact&theme=radical)
