@@ -1,7 +1,7 @@
 # Hi there!👋 I'm **Aminul Islam**
 a passionate web developer building my career in the world of web development.
 
-[img]("C:\Users\ASUS\Downloads\git-banner.png")
+![img]("C:\Users\ASUS\Downloads\git-banner.png")
 
 
 ## About Me
