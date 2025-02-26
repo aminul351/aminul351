@@ -23,9 +23,9 @@ If you have expertise in these areas, I’d love to learn from you!
 
 Feel free to connect with me! Let's build something amazing together. �
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aminul157246&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aminul351&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aminul157246&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aminul351&theme=radical)
 
 ---
 
