@@ -24,7 +24,7 @@ Proficient in HTML, CSS, JavaScript, React, Tailwind, MongoDB, and Node.js (basi
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aminul351&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aminul351&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aminul351&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aminul351&layout=compact) ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=aminul351&show_icons=true&hide_title=true&count_private=true)
 
 🔭 I’m currently working on... Building my career as a **Web Developer**.
