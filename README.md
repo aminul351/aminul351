@@ -1,8 +1,6 @@
 # Hi there!👋 I'm **Aminul Islam**
 a passionate web developer building my career in the world of web development.
 
-![Aminul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aminul351&show_icons=true&theme=radical)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aminul351&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aminul351&layout=compact&theme=radical)
