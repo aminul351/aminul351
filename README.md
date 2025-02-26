@@ -3,7 +3,6 @@
 
 ![img](git-banner.png)
 
-
 ## About Me
 Greetings! I'm **Aminul Islam**, a passionate frontend developer dedicated to creating immersive digital experiences. With a foundation in **HTML**, **CSS**, **JavaScript**, **React**, **Node**, and **MongoDB**, I've evolved into a **Next.js** enthusiast, wielding its power to craft sleek and interactive user interfaces.
 
@@ -29,9 +28,6 @@ Proficient in HTML, CSS, JavaScript, React, Tailwind, MongoDB, and Node.js (basi
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aminul351&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aminul351&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aminul351&theme=radical)
-
 🔭 I’m currently working on... Building my career as a **Web Developer**.
 
 🌱 I’m currently learning... TypeScript, Redux, Next.js, C++, Python
@@ -48,11 +44,5 @@ If you have expertise in these areas, I’d love to learn from you!
 
 ## 📫 How to reach me:
 - Gmail: [aminul.islam.157246@gmail.com](mailto:aminul.islam.157246@gmail.com), Phone: 01761743556
-
----
-
-Feel free to connect with me! Let's build something amazing together. �
-
----
-
+--
 🔥 **Let's connect and build amazing projects together!**  
