@@ -1,35 +1,42 @@
-# 👋 Hi there, I'm Aminul Islam!  
+# Hi there! 👋
 
-🚀 **Web Developer || Frontend Enthusiast**  
+I'm **Aminul Islam**, a passionate web developer building my career in the world of web development. Here's a little about me:
 
-🔭 **Currently Working On:** Building my career as a Web Developer  
-🌱 **Currently Learning:** Redux, Next.js  
-👯 **Looking to Collaborate On:**  
-- **Frontend development** using HTML, CSS, JavaScript, React, Redux, Next.js, TypeScript  
-- **Innovative projects** that improve user experience and performance  
+## 🔭 I’m currently working on...
+Building my career as a **Web Developer**.
 
-🤔 **Seeking Help With:**  
-- Advanced **Next.js concepts**  
-- **State management** best practices  
-- **Advanced component patterns**  
+## 🌱 I’m currently learning...
+- **Redux**
+- **Next.js**
 
-💬 **Ask Me About:**  
-- Getting started with **HTML, CSS, React.js**  
-- Basic **state management and component creation**  
+## 👯 I’m looking to collaborate on...
+Projects involving:
+- **HTML**, **CSS**, and **JavaScript**
+- **React**, **Redux**, **Next.js**, and **TypeScript**
 
-📫 **How to Reach Me:**  
-- **Email:** aminul.islam.157246@gmail.com  
-- **Phone:** +8801761743556  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)  
-- [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat&logo=react)](https://career-scope-007.netlify.app/)  
+I'm eager to contribute to **frontend design and development**! If you have any exciting projects, feel free to reach out.
 
-⚡ **Fun Fact:** I'm always curious and love learning new things!  
+## 🤔 I’m looking for help with...
+- Understanding **advanced Next.js concepts**.
+- Guidance or resources on **state management** and **advanced component patterns**.
 
-### 📊 GitHub Stats  
-![Aminul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
+If you have expertise in these areas, I’d love to learn from you!
 
+## 💬 Ask me about...
+Getting started with:
+- **HTML**, **CSS**, and **React.js**!  
+I can assist with:
+- Basic concepts
+- Component creation
+- State management
 
-![Aminul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aminul157246&show_icons=true&theme=radical)
+## 📫 How to reach me:
+- **Gmail**: [aminul.islam.157246@gmail.com](mailto:aminul.islam.157246@gmail.com)
+- **Phone**: 01761743556
+
+---
+
+Feel free to connect with me! Let's build something amazing together. �
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aminul157246&layout=compact&theme=radical)
 
