@@ -3,7 +3,9 @@ a passionate web developer building my career in the world of web development.
 
 ![Aminul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aminul351&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aminu351&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aminul351&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aminul351&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aminul351&theme=radical)
 
