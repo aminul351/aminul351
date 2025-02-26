@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi there, I'm Aminul Islam!  
 
-<!--
-**aminul351/aminul351** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Web Developer || Frontend Enthusiast**  
 
-Here are some ideas to get you started:
+🔭 **Currently Working On:** Building my career as a Web Developer  
+🌱 **Currently Learning:** Redux, Next.js  
+👯 **Looking to Collaborate On:**  
+- **Frontend development** using HTML, CSS, JavaScript, React, Redux, Next.js, TypeScript  
+- **Innovative projects** that improve user experience and performance  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤔 **Seeking Help With:**  
+- Advanced **Next.js concepts**  
+- **State management** best practices  
+- **Advanced component patterns**  
+
+💬 **Ask Me About:**  
+- Getting started with **HTML, CSS, React.js**  
+- Basic **state management and component creation**  
+
+📫 **How to Reach Me:**  
+- **Email:** aminul.islam.157246@gmail.com  
+- **Phone:** +8801761743556  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)  
+- [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat&logo=react)](https://career-scope-007.netlify.app/)  
+
+⚡ **Fun Fact:** I'm always curious and love learning new things!  
+
+### 📊 GitHub Stats  
+![Aminul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
+
+---
+
+🔥 **Let's connect and build amazing projects together!**  
