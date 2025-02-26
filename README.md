@@ -1,7 +1,7 @@
 # Hi there!👋 I'm **Aminul Islam**
 ### a passionate web developer building my career in the world of web development.
 
-## This is my main github account --> ![Click Here](https://github.com/aminul157246)
+## This is my main github account --> [Click Here](https://github.com/aminul157246)
 
 ![img](git-banner.png)
 
