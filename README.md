@@ -1,6 +1,9 @@
-<h1 align="center">Hi 👋, I'm Aminul Islam</h1>
-<h3 align="center">Frontend Developer | React & Vue Enthusiast</h3>
+<h1 align="center">Hi There, I'm Aminul Islam 👋</h1>
+<h3 align="center" color=""gray">Frontend Developer | React & Vue Enthusiast</h3>
 
+<p align="center">
+  <img src="git-banner.png" alt="Banner" style="width:800px" />
+</p>
 
 
 ---
@@ -35,42 +38,79 @@ I enjoy transforming ideas into elegant interfaces using modern frontend tools a
 ## 🚀 Technologies & Tools
 
 <p align="center">
-  <a href="https://github.com/aminul351">
-    <img src="https://github-readme-stats.vercel.app/api?username=aminul351&show_icons=true&theme=radical&count_private=true&cache_seconds=1800" height="165"/>
-  </a>
-  <a href="https://github.com/aminul351">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminul351&layout=compact&theme=radical&cache_seconds=1800" height="165"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind,bootstrap,nodejs,laravel,mongodb,git,github,vercel" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminul351&layout=compact&theme=radical&hide=css,html" height="165"/>
 
-  <a href="https://github.com/aminul351">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminul351&layout=compact&theme=radical&hide=css,html" height="165"/>
-  </a>
+  
+
+<!-- STREAK + TOP LANGS -->
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=aminul351&theme=radical"
+    height="100%"
+  />
+  <!-- <img
+    src="https://github-readme-stats-git-master.vercel.app/api/top-langs/?username=aminul351&layout=compact&theme=radical"
+    height="170"
+  /> -->
 </p>
+
+---
+
+<!-- PROFILE SUMMARY -->
+<p align="center">
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aminul351&theme=tokyonight"
+    width="100%"
+  />
+</p>
+
+---
+
+<!-- LANGUAGE CARDS -->
+<p align="center">
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aminul351&theme=tokyonight"
+    width="48%"
+  />
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aminul351&theme=tokyonight"
+    width="48%"
+  />
+</p>
+
+---
+
+<!-- STATS + PRODUCTIVE TIME -->
+<p align="center">
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aminul351&theme=tokyonight"
+    width="48%"
+  />
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aminul351&theme=tokyonight&utcOffset=8"
+    width="48%"
+  />
+</p>
+
+
+
+
 
 ---
 
 ## 📫 Contact Me
 
-- 📧 **Email:** [aminul.islam.157246@gmail.com](mailto:aminul.islam.157246@gmail.com)  
-- 📞 **Phone:** +8801761743556  
-- 🔗 **GitHub:** [https://github.com/aminul351](https://github.com/aminul351)  
-- 🔗 **LinkedIn:** [https://www.linkedin.com/in/aminul-islam-157246](https://www.linkedin.com/in/aminul-islam-157246)
+- 📧 [Send Email](mailto:aminul157246@gmail.com)  
+- 🔗 [Linkedin](https://www.linkedin.com/in/aminulislam157246/)
 
 ---
 
-## 🌟 Fun Fact
-
-> “Clean code is like a beautiful house — everyone notices, but nobody appreciates until it’s messy.”
-
----
 
 ⭐ **Thanks for visiting my profile!**  
 Feel free to explore my repositories and connect with me.
