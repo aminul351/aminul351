@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer | React & Vue Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aminul157246&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=aminul351&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <p align="center">
