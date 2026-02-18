@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aminul351&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
-
+ 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;React+%7C+Vue+Developer;Clean+UI+%26+Responsive+Design;Always+Learning+New+Things&center=true&width=500&height=45">
 </p>
